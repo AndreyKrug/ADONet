@@ -1,0 +1,5 @@
+H:\rabota\C#\HW_IntroToADONet\HW_IntroToADONet\bin\Debug\HW_IntroToADONet.exe.config
+H:\rabota\C#\HW_IntroToADONet\HW_IntroToADONet\bin\Debug\HW_IntroToADONet.exe
+H:\rabota\C#\HW_IntroToADONet\HW_IntroToADONet\bin\Debug\HW_IntroToADONet.pdb
+H:\rabota\C#\HW_IntroToADONet\HW_IntroToADONet\obj\Debug\HW_IntroToADONet.exe
+H:\rabota\C#\HW_IntroToADONet\HW_IntroToADONet\obj\Debug\HW_IntroToADONet.pdb
